@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository contains the implementation and experimentation code for the **SCoTMan** (Smart Contract-based Trust Management) method for trust management in the Internet of Things (IoT) environment. The project utilizes Hyperledger Fabric, a permissioned blockchain platform, and Caliper, a blockchain benchmarking tool, to conduct comprehensive tests and evaluations.
+This repository contains the implementation and experimentation code for the **SCoTMan** (**S**mart **Co**ntract for **T**rust **Man**agement) method for trust management in the Internet of Things (IoT) environment. The project utilizes Hyperledger Fabric, a permissioned blockchain platform, and Caliper, a blockchain benchmarking tool, to conduct comprehensive tests and evaluations.
 
 ## Table of Contents
 
