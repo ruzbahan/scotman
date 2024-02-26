@@ -38,14 +38,14 @@ Ensure you have the following prerequisites installed:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/ruzbahan/scotman.git
+   cd scotman
    ```
 
 2. Install dependencies:
 
    ```bash
-   # Instructions for installing dependencies, if any
+   # To be added
    ```
 
 ## Usage
