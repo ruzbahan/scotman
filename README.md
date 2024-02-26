@@ -1,6 +1,6 @@
 
 
-# SCoTMan: Trust Management in IoT using Hyperledger Fabric and Caliper
+# SCoTMan: Smart Contract for Trust Management in IoT using Hyperledger Fabric
 
 ## Overview
 
