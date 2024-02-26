@@ -55,9 +55,7 @@ Ensure you have the following prerequisites installed:
 Provide instructions on how to use your code. Include details on how to deploy the Hyperledger Fabric network, run the SCoTMan method, and execute tests using Caliper.
 
 ```bash
-# Example commands for deploying Hyperledger Fabric network
-# Example commands for running SCoTMan method
-# Example commands for executing tests with Caliper
+# To be added
 ```
 
 ## Configuration
@@ -78,12 +76,5 @@ If you'd like to contribute to this project, please follow the [Contribution Gui
 
 ## License
 
-This project is licensed under the [Your License] - see the [LICENSE.md](LICENSE.md) file for details.
+See the [LICENSE.md](LICENSE.md) file for details.
 
-## Acknowledgments
-
-Acknowledge any individuals, organizations, or projects that have contributed to or inspired your work.
-
----
-
-Feel free to customize and expand upon this template according to the specific details and structure of your project.
