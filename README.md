@@ -1,6 +1,4 @@
-Certainly! Below is a template for a README file for your GitHub repository. Make sure to customize it with specific details about your project.
 
----
 
 # SCoTMan: Trust Management in IoT using Hyperledger Fabric and Caliper
 
